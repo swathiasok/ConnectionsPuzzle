@@ -52,3 +52,5 @@ pip-wheel-metadata/
 *.env
 .env.local
 .envrc
+
+*/Qwen2-0.5B-GRPO-test/*
