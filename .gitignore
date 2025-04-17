@@ -1,6 +1,7 @@
 # Ignore virtual environments
 venv/
 env/
+dl/
 .venv/
 .conda/
 
@@ -54,3 +55,9 @@ pip-wheel-metadata/
 .envrc
 
 */Qwen2-0.5B-GRPO-test/*
+prompt/grpo_saved_lora/
+prompt/grpo_trainer_lora_model/
+prompt/outputs/
+prompt/GRPO-test
+prompt/unsloth_compiled_cache
+
