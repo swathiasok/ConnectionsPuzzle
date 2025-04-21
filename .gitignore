@@ -54,9 +54,11 @@ pip-wheel-metadata/
 .envrc
 
 */Qwen2-0.5B-GRPO-test/*
-prompt/grpo_saved_lora/
+prompt/grpo_saved_lora*
+prompt/sft_saved_lora*
 prompt/grpo_trainer_lora_model/
-prompt/outputs/
+prompt/outputs_grpo/
+Prompt/sft_outputs/
 prompt/GRPO-test
 prompt/unsloth_compiled_cache
 
