@@ -57,7 +57,7 @@ pip-wheel-metadata/
 prompt/grpo_saved_lora*
 prompt/sft_saved_lora*
 prompt/grpo_trainer_lora_model/
-prompt/outputs_grpo/
+prompt/outputs*
 prompt/sft_outputs/
 prompt/GRPO-test
 prompt/unsloth_compiled_cache
